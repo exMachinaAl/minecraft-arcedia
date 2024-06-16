@@ -1,0 +1,10 @@
+.bot-available-container {
+  float: left;
+  /* display: flex;
+  flex-direction: column; */
+  position: relative;
+  height: 75px;
+  width: 182px;
+  /* border: 1px solid; */
+  border-radius: 20px;
+}
